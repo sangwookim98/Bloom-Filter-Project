@@ -1,5 +1,5 @@
 # MinHash Project: Plagarism Detector
-Plagarism Detector code by implementing technique of MinHashing. Plagarism of a document can be determined by Jaccard's Measure after comparing two documents. 
+Plagarism Detector code by implementing technique of MinHashing. Plagarism of a document can be determined by Jaccard's Measure after comparing two documents. After establishing MinHashing techniques, will be comparing runtimes with linear search.
 
 
 ##### MinHash
