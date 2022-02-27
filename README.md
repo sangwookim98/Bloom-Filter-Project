@@ -3,7 +3,7 @@ Plagarism Detector code by implementing technique of MinHashing. Plagarism of a 
 
 
 ##### MinHash
-Commonly used technique in Data Mining, MinHashing is a technique where it would calculate similarities of two sets. MinHash is a very efficient way of comparing a large number of doucments because by using a MinHash signature, it would not only decrease the runtime complexity by a large amount, but it would also allow the comparison of the sets to be easily implemented rather than having to compare each single a lot of times within a large collection of documents given. 
+MinHash is a commonly used technique in Data Mining, where it is a technique that calculates similarities of two sets. MinHash is a very efficient way of comparing a large number of doucments because by using a MinHash signature, it would not only decrease the runtime complexity by a large amount, but it would also allow the comparison of the sets to be easily implemented rather than having to compare each single a lot of times within a large collection of documents given. 
 
 #### Jaccard's Measure
 Jaccard's Measure is the resemblence of two sets of arbitrary sizes as a result of comparing two MinHash-ed documents. 
